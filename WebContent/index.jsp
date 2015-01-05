@@ -9,7 +9,7 @@
 </head>
 <body>
     <div id="content" class="container">
-        <h1>Hello Lalo!</h1>
+        <h1>Hello Eduardo!</h1>
         <p><a href="userGetSaludo">Saludo User</a></p>
     </div>
 </body>
